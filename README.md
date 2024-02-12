@@ -9,7 +9,8 @@
   </a>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="display: block;margin-left: auto;margin-right: auto;margin-bottom:5px;width: 150%;">
-<h2 align="center" style="font-size=40px;color: transparent; background: linear-gradient(-225deg, #FF3CAC 0%, #562B7C 52%, #2B86C5 100%);-webkit-background-clip: text; background-clip:text;">Languages-Frameworks-Tools</h2>
+<!-- <h2 align="center" style="font-size=40px;color: transparent; background: linear-gradient(-225deg, #FF3CAC 0%, #562B7C 52%, #2B86C5 100%);-webkit-background-clip: text; background-clip:text;">Languages-Frameworks-Tools</h2> -->
+<img src="title.svg">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="display: block;margin-left: auto;margin-right: auto;margin-bottom:5px;width: 150%;">
 <img src="IMG_20240208_002215.jpg" style="border-radius:10px;">
 <div align="center" style="padding: 10px; border: 2px solid;
@@ -20,10 +21,9 @@
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="display: block;margin-left: auto;margin-right: auto;margin-bottom:5px;width: 150%;">
 <div align="center">
-  <h2 align="center" style="font-size=40px;color: transparent; background: linear-gradient(-225deg, #FF3CAC 0%, #562B7C 52%, #2B86C5 100%);-webkit-background-clip: text; background-clip:text;">My Contributions</h2>
-  <br>
+  <img src="img.svg">
   <!-- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" /> -->
-  <img src="introduction.svg" >
+  <img src="svg/introduction.svg" >
   <br/><br/><br/>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="display: block;margin-left: auto;margin-right: auto;margin-bottom:5px;width: 150%;">
@@ -31,10 +31,10 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="#" title="Trungquandev">
+  <a href="#" title="taivip957">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungquandev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-  <a href="#" title="Trungquandev">
+  <a href="#" title="taivip957">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=BAIYUECHU&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
