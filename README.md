@@ -23,7 +23,7 @@
 <div align="center">
   <img src="img.svg">
   <!-- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" /> -->
-  <img src="svg/introduction.svg" >
+  <img src="introduction.svg" >
   <br/><br/><br/>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="display: block;margin-left: auto;margin-right: auto;margin-bottom:5px;width: 150%;">
