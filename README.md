@@ -11,20 +11,6 @@
                                                   |___/                             
 ```
 
-<!-- <div align="center"> 
-  <a href="#">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://github.com/xiaowu-d3/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options 
-  </a>
-</div> 
--->
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="display: block;margin-left: auto;margin-right: auto;margin-bottom:5px;width: 1500px;"> -->
-<!-- <h2 align="center" style="font-size=40px;color: transparent; background: linear-gradient(-225deg, #FF3CAC 0%, #562B7C 52%, #2B86C5 100%);-webkit-background-clip: text; background-clip:text;">Languages-Frameworks-Tools</h2> -->
-<!-- <img src="title.svg"> -->
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="display: block;margin-left: auto;margin-right: auto;margin-bottom:5px;width: 1500px;"> -->
-<!-- <img src="IMG_20240208_002215.jpg" style="border-radius:10px;"> -->
 <div align="center" style="padding: 10px; border: 2px solid;
   border-image-slice: 1;
   border-image-source: linear-gradient(to right bottom, #6a5af9, #f62682);">
