@@ -1,5 +1,11 @@
 <!-- <img src="hihi.gif" width="1000px" height="170px"> -->
 <!-- <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" style="display: block;margin-left: auto;margin-right: auto;margin-bottom:5px;width:1500px;"> -->
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/600704648038580235)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/600704648038580235)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/600704648038580235)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/600704648038580235)
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrainsMono+Nerd+Font&weight=300&size=33&pause=1000&color=68A5F7&center=true&vCenter=true&width=999&lines=Hello%2C+I+am+Baiyuechu)](https://git.io/typing-svg)
 
 ```
