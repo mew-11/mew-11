@@ -12,14 +12,14 @@ Hi there, I'm a ................................................................
 [![Facebook](https://img.shields.io/badge/Facebook-0084ff?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/dongfangxiaobai11/)
 [![Gmail](https://img.shields.io/badge/Gmail-c71610?style=for-the-badge&logo=Gmail&logoColor=white)](https://www.facebook.com/dongfangxiaobai11/)
 
-- ❤ Funding
+- Funding
 
 ![Buy Me A Coffer](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
 ![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)
 ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
 ![Alipay](https://img.shields.io/badge/alipay-00A1E9?style=for-the-badge&logo=alipay&logoColor=white)  
 <details> 
-<summary>Other Methods</summary>
+<summary> Other Methods</summary>
 <hr>
 
  - Momo: 0397882342
@@ -38,7 +38,6 @@ Hi there, I'm a ................................................................
 /'\_   _/`\
 \___)=(___/                         
 ```
-
 <div align="center" style="padding: 10px; border: 2px solid;
   border-image-slice: 1;
   border-image-source: linear-gradient(to right bottom, #6a5af9, #f62682);">
