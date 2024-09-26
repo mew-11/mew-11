@@ -10,7 +10,6 @@ Hi there, I'm a ................................................................
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/siduck)
 [![Reddit](https://img.shields.io/badge/Reddit-FF5700?style=for-the-badge&logo=Reddit&logoColor=white)](https://matrix.to/#/@siduck:matrix.org)
 [![Facebook](https://img.shields.io/badge/Facebook-0084ff?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/dongfangxiaobai11/)
-[![Gmail](https://img.shields.io/badge/Gmail-c71610?style=for-the-badge&logo=Gmail&logoColor=white)](https://www.facebook.com/dongfangxiaobai11/)
 
 - Funding
 
