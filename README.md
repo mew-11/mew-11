@@ -13,10 +13,9 @@ Hi there, I'm a ................................................................
 
 - Funding
 
-![Buy Me A Coffer](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
-![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)
-![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
-![Alipay](https://img.shields.io/badge/alipay-00A1E9?style=for-the-badge&logo=alipay&logoColor=white)  
+[![Buy Me A Coffer](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ebevutruq)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/baiyuechu)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/invoice/p/#HZWF8VQHDL9SV9WL)
 <details> 
 <summary> Other Methods</summary>
 <hr>
