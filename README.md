@@ -3,7 +3,9 @@
 
 # Introduction 
 
-Hi there, I'm a ..................................................................................
+![](https://komarev.com/ghpvc/?username=xiaowu-d3&style=for-the-badge&base=1111)
+
+Hi there, I'm a .....................
 - Places where you can contact me 📱: 
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/600704648038580235)
