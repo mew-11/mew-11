@@ -9,7 +9,6 @@ Hi there, I'm a .....................
 - Places where you can contact me 📱: 
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/600704648038580235)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/siduck)
 [![Reddit](https://img.shields.io/badge/Reddit-FF5700?style=for-the-badge&logo=Reddit&logoColor=white)](https://matrix.to/#/@siduck:matrix.org)
 [![Facebook](https://img.shields.io/badge/Facebook-0084ff?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/dongfangxiaobai11/)
 
