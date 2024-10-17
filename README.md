@@ -3,8 +3,6 @@
 
 # Introduction 
 
-![](https://komarev.com/ghpvc/?username=xiaowu-d3&style=for-the-badge&base=1111)
-
 Hi there, I'm a baiyuechu.
 ## Places where you can contact me 📱: 
 
