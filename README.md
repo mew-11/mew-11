@@ -20,6 +20,7 @@ Hi there, I'm a .....................
 <details> 
 <summary> Other Methods</summary>
 <img src='./qr.jpeg'/>
+If you want buy for me a few coffee. This is my momo
 </details>
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrainsMono+Nerd+Font&weight=300&size=33&pause=1000&color=68A5F7&center=true&vCenter=true&width=999&lines=Hello%2C+I+am+Baiyuechu)](https://git.io/typing-svg) -->
 
