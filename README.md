@@ -19,11 +19,7 @@ Hi there, I'm a .....................
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/invoice/p/#HZWF8VQHDL9SV9WL)
 <details> 
 <summary> Other Methods</summary>
-<hr>
-
- - Momo: 0397882342
- - MBbank - 996677888
-
+<img src='./qr.jpeg'/>
 </details>
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrainsMono+Nerd+Font&weight=300&size=33&pause=1000&color=68A5F7&center=true&vCenter=true&width=999&lines=Hello%2C+I+am+Baiyuechu)](https://git.io/typing-svg) -->
 
