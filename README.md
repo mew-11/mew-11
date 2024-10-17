@@ -5,18 +5,20 @@
 
 ![](https://komarev.com/ghpvc/?username=xiaowu-d3&style=for-the-badge&base=1111)
 
-Hi there, I'm a .....................
-- Places where you can contact me 📱: 
+Hi there, I'm a baiyuechu.
+## Places where you can contact me 📱: 
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/600704648038580235)
 [![Reddit](https://img.shields.io/badge/Reddit-FF5700?style=for-the-badge&logo=Reddit&logoColor=white)](https://matrix.to/#/@siduck:matrix.org)
 [![Facebook](https://img.shields.io/badge/Facebook-0084ff?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/dongfangxiaobai11/)
 
-- Funding
+## Funding
 
 [![Buy Me A Coffer](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ebevutruq)
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/baiyuechu)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/invoice/p/#HZWF8VQHDL9SV9WL)
+
+If you want buy for me a few coffee. This is my momo, click `Other Methods` to see it
 <details> 
 <summary> Other Methods</summary>
 <img src='./qr.jpeg'/>
